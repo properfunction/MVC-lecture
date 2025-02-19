@@ -54,6 +54,10 @@ exports.getProductDetail = async (req, res) => {
 ```
 
 ## MVC Workflow
+
+![map](https://github.com/user-attachments/assets/604babb8-cefb-4821-922d-4f91d05fcbd6)
+
+
 1. The **user interacts** with the application (e.g., clicks a button).
 2. The **Controller processes** the user input and requests data from the Model.
 3. The **Model updates** the requested data and sends it to the View.
