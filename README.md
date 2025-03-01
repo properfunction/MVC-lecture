@@ -55,7 +55,7 @@ exports.getProductDetail = async (req, res) => {
 
 ## MVC Workflow
 
-![map](3c8fe45bbf034516a5e39e00499c7d10.png)
+![Alt Text](https://github.com/your-username/your-repository-name/raw/main/assets/images/3c8fe45bbf034516a5e39e00499c7d10.png)
 
 
 1. The **user interacts** with the application (e.g., clicks a button).
